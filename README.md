@@ -1,2 +1,2 @@
 # rsschool-cv
-4rs
+https://edralex.github.io/rsschool-cv/cv
