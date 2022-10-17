@@ -1,0 +1,25 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  .hr{
+      margin:0
+  }
+  ul.hr {
+    margin: 0; 
+    padding: 4px;
+   }
+   ul.hr li {
+    display: inline; 
+    padding: 3px; 
+   }
+   .menu{
+       margin:0;
+       padding: 0;
+   }
+   .menu li
+   {
+    display: inline;
+    padding: 3px; 
+   }
